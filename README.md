@@ -9,7 +9,7 @@
 </p>
 
 <sub>
-  desenvolvimento web • interfaces • APIs • algumas ideias questionáveis às 2 da manhã
+  desenvolvimento web • interfaces • APIs
 </sub>
 
 <br/><br/>
